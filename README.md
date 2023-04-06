@@ -25,11 +25,16 @@
 
 If you want to change the config, open up [config.json](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
 
+*Put Token in line 48 index.js*
 ```js
-  "prefix": "prefix",
-  "token": "put-token-here",
-  "owners": ["owners-bot"],
-  "footer": "🔞・NSFW",
+client.login("Put-Token-Here")
+```
+---
+```js
+{
+  "command": "verifyMessageCommand",
+  "roleID": "verifiedRoleID"
+}
 ```
 
 ---
