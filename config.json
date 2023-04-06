@@ -1,0 +1,4 @@
+{
+  "command": "verifyMessageCommand",
+  "roleID": "verifiedRoleID"
+}

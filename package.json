@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.3"
+  }
+}
